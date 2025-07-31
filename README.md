@@ -1,2 +1,2 @@
-Hello From main Branch
-Hello from Conflict branch
+Hello From main Branch and Hello from Conflict branch
+
